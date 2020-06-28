@@ -1,0 +1,3 @@
+{
+  "text": "#alertrulename fired with #searchresultcount records which exceeds the over threshold of #thresholdvalue"
+}
